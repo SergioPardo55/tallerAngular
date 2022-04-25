@@ -1,0 +1,14 @@
+#series {
+  margin-top: 10px;
+  margin-left:75px;
+  margin-right:auto;
+  padding: 10px;
+}
+
+#promedioCol{
+  margin-left: 75px   ;
+}
+
+td{
+  border-top: solid 1.1px lightgray;
+}

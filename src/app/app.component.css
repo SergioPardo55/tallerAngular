@@ -1,0 +1,13 @@
+h2{
+  text-align: center;
+}
+
+#titulo{
+  background-color:rgb(78, 175, 179);
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
